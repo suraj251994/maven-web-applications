@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Anon world- Home Page</title>
+<title>Anonworld- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
@@ -40,7 +40,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-xxxxxxxxxx
 		Anonworld@gmail.com
 		<br>
-		<a href="mailto:Anonworld@gmail.com">Mail to Anon world</a>
+		<a href="mailto:Anonworld123@gmail.com">Mail to Anonworld</a>
 	</span>
 </div>
 <hr>
@@ -48,6 +48,6 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Anon world - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Anon world,Bengaluru</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://anonworld.com/">Anonworld,Bengaluru</a> </small></p>
 </body>
 </html>
