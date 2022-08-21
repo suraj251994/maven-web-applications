@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">AnonWorld. Bengaluru,Karnataka </h1>
-<h1 align="center"> AnonWorld - Devops, AWS, Azure , GCP and CyberSecurity</h1>
+<h1 align="center"> AnonWorld - Devops, AWS, Azure , GoogleCloudComputing and CyberSecurity</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
